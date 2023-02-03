@@ -1,0 +1,27 @@
+#List
+list1=["Hello","Hi","Bonjour","Namaste","Aloha"]
+print(list1)
+list2=["English","Malayalam","Hindi","Arabic","French"]
+print(list2)
+
+
+#Tuple
+t1=("How","old","are","you","I","am",18,"years","old")
+print(t1)
+t2=("Funny","Comedic","Hilarious","amusing","chucklesome")
+print(t2)
+
+
+#Dictionary
+D1={"Name":"Philip","Age":18,"Register":"21BAI1623","University":"VITC"}
+print(D1)
+D2={"Hobby":"Reading","Branch":"Engineering","Orgin":"Kerala","Course":"AI & ML"}
+print(D2)
+
+
+#Set
+set1={"Yell","Yelling","Yelled","Will Yell"}
+print(set1)
+set2={"Random","Cars",1,2,3,"Books","Movies"}
+print(set2)
+
